@@ -1,0 +1,1 @@
+Express is a lightweight web application framework, and is one of the most popular packages on [[NPM]]. Express makes it much easier to create a server and handle routing for your [[Node.js]] application, which handles things like directing people to the correct page when they visit a certain endpoint.

@@ -1,0 +1,1 @@
+NPM (Node Package Manager), is a command line tool to install, create and share package of JavaScript code written for Node.js. There are many open source package available on npm , so before starting a project, take some time to explore so you don't end up recreating the wheel for things like working with dates or fetching data from an API
