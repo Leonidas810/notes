@@ -1,4 +1,4 @@
-#AMAZON #ECS
+#AMAZON #ECS #AWS-CONTAINERS
 
 Amazon ECS is a fully managed container orchestration service that enables teams to build, manage, and run even the most demanding containerized workloads without the complexity of infrastructure management, freeing up development teams to innovate faster.
 
