@@ -22,3 +22,9 @@ AWS has the concept of a Region, which is a physical location around the world w
 ### Availability Zones
 
 An Availability Zone (AZ) is one or more discrete data centers with redundant power, networking, and connectivity in an AWS Region. AZs give customers the ability to operate production applications and databases that are more highly available, fault tolerant, and scalable than would be possible from a single data center. All AZs in an AWS Region are interconnected with high-bandwidth, low-latency networking, over fully redundant, dedicated metro fiber providing high-throughput, low-latency networking between AZs.
+
+## Service Administration Levels
+
+In AWS, services fall into three categories depending on how much administration **YOU** must perform versus how much AWS manages for you:
+
+![[AWS_ServicesModel.png]]

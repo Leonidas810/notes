@@ -1,0 +1,3 @@
+#AMAZON #ELB
+
+[ELB (Elastic Load Balancing)](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html) automatically distributes your incoming traffic across multiple targets, such as [[EC2]] instances, containers, and IP addresses, in one or more Availability Zones. It monitors the health of its registered targets, and routes traffic only to the healthy targets. ELB scales your load balancer capacity automatically in response to changes in incoming traffic.
