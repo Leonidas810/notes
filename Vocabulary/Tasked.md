@@ -1,0 +1,1 @@
+To be **tasked** means to be assigned a specific responsibility, duty, or piece of work, typically by someone in a position of authority
